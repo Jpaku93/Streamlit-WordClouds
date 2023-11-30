@@ -3,6 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from wordcloud import WordCloud
 import streamlit as st
+import math
 
 # upload csv file and read into dataframe
 st.title("Word Clouds")
