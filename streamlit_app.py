@@ -9,7 +9,6 @@ import math
 st.title("Word Clouds")
 st.write("Drop the cluster csv in the app to generate wordclouds, also add the summary column if you want")
 st.write("Make sure to pick the write columns to process")
-st.write("upload csv file and read into dataframe")
 
 st.write("upload csv file and read into dataframe")
 uploaded_file = st.file_uploader("Choose a file")
